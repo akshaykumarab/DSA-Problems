@@ -2,5 +2,5 @@
 using namespace std;
 
 int main() {
-cout<<"bEERA CHUTYA";
+return 0;
 }
