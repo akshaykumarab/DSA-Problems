@@ -2,5 +2,5 @@
 using namespace std;
 
 int main() {
-return 0;
+cout<<"Beera chutya hai "<<endl;
 }
